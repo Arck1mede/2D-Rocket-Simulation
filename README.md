@@ -41,5 +41,5 @@ Here is what I learned after completing the project:
 
 
 ## 📹 Video
-[Uploading rocket simulation.mp4…](https://github.com/user-attachments/assets/f06fb6d0-9dbd-49a1-9e0e-12396f2fb02e
+[Uploading 2D rocket simulation.mp4…](https://github.com/user-attachments/assets/31bac341-29ed-4336-af1c-4c7f22d31141
 )
